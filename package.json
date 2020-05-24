@@ -1,0 +1,22 @@
+{
+  "name": "sitio-web-pintores",
+  "version": "1.0.0",
+  "description": "Crear un sitio web que deberá enlazar a 4 páginas de pintores diferentes, cada página contendrá  una reseña de su vida u obra y sus 5 pinturas que mas les gusten.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VICDACHM1212/Sitio-web-Pintores.git"
+  },
+  "author": "Victor Daniel Chavez Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VICDACHM1212/Sitio-web-Pintores/issues"
+  },
+  "homepage": "https://github.com/VICDACHM1212/Sitio-web-Pintores#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
